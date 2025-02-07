@@ -1,5 +1,3 @@
 #!/bin/bash
-ls -la 
-ls ..
-ls -la /boot/
+ls -la .. /boot/
 
