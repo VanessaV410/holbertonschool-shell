@@ -1,7 +1,2 @@
 #!/bin/bash
-echo "Hello, World\c60888f3d768ee24bf6-2377118072:~/holbertonschool-shell/io_redirections_and_filters# git push
-Everything up-to-date
-root@c09c4f8f9c0b4c60888f3d768ee24bf6-2377118072:~/holbertonschool-shell/io_redirections_and_filters# vi 0-hello_world 
-
-#!/bin/bash
 echo -e "Hello, \nWorld"
