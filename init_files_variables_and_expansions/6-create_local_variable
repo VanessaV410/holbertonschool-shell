@@ -1,3 +1,2 @@
 #!/bin/bash
-local var:Shcool
-local varBEST
+local var:Shcool | local varBEST
